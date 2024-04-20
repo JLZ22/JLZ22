@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS + AI double major at Purdue University and expecting to graduate in Spring of 2026. My primary focus is on developing foreign object detection for an assembly line by leveraging computer vision. I also am an avid gym goer and love playing rugby (I am a member of the Purdue Men's Rugby club).
+I am a CS + AI double major at Purdue University and expecting to graduate in Spring of 2026. My primary focus is on developing foreign object detection for an assembly line by leveraging computer vision. I am also an avid gym goer and love playing rugby (I am a member of the [Purdue Men's Rugby](https://purduemensrugby.org/) club).
 
 
 
