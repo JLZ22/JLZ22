@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a AI + CS double major at Purdue University. I currently have a few projects that are on the backburner, but my primary focus is on developing foreign object detection for an assembly line by leveraging computer vision. 
+I am a AI + CS double major at Purdue University and expecting to graduate in Spring of 2026. I currently have a few projects that are on the backburner, but my primary focus is on developing foreign object detection for an assembly line by leveraging computer vision. 
 
 
 ## 🌐 Socials:
