@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS + AI double major at Purdue University and expecting to graduate in Spring of 2026. I am currently focused on developing a desktop application that performs foreign object detection in an assembly space. In my free time, I am an avid gym goer and love playing rugby (I am a member of the [Purdue Men's Rugby](https://www.mensrugbypurdue.com/).
+I am a CS + AI double major at Purdue University and expecting to graduate in Spring of 2026. I am currently focused on developing a desktop application that performs foreign object detection in an assembly space. In my free time, I am an avid gym goer and love playing rugby (I am a member of the [Purdue Men's Rugby](https://www.mensrugbypurdue.com/)).
 
 # 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
