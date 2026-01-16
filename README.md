@@ -1,2 +1,2 @@
 # 💫 About Me:
-I am a CS + AI double major at Purdue University and expecting to graduate in Spring of 2026. I am also currently working in the Digital Enterprise Center to build Industry 4.0 software that integrates with automated tools and computer vision for assembly verification and comprehensive data collection. In my free time, I am an avid gym goer and love playing rugby (I am a member of the [Purdue Men's Rugby](https://www.mensrugbypurdue.com/)).
+I am a CS + AI double major at Purdue University and expecting to graduate in Spring of 2026. In my free time, I am an avid gym goer and love playing rugby (I am a member of the [Purdue Men's Rugby](https://www.mensrugbypurdue.com/)).
